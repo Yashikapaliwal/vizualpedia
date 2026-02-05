@@ -1,0 +1,338 @@
+[
+  {
+    "id": 1,
+    "name": "microsoft",
+    "logo": "https://res-console.cloudinary.com/dwb9ftwd3/thumbnails/v1/image/upload/v1761383087/bWljcm9zb2Z0LXN2Z3JlcG8tY29tXzFfZXJoZHFu/drilldown",
+    "sector": "technology",
+    "HQ": "USA",
+    "market cap": "3150$B",
+    "description": "Software, cloud, AI",
+    "facts": [
+      "one",
+      "two",
+      "three",
+      "four",
+      "five",
+      "six",
+      "seven",
+      "eight",
+      "nine",
+      "ten"
+    ]
+  },
+  {
+    "id": 2,
+    "name": "apple",
+    "logo": "https://res-console.cloudinary.com/dwb9ftwd3/thumbnails/v1/image/upload/v1761383087/YXBwbGUtc3ZncmVwby1jb21fc2dqcGZ5/drilldown",
+    "HQ": "USA",
+    "sector": "technology",
+    "market cap": "2950$B",
+    "description": "iPhone, Mac, iPad, services",
+    "facts": [
+      "one",
+      "two",
+      "three",
+      "four",
+      "five",
+      "six",
+      "seven",
+      "eight",
+      "nine",
+      "ten"
+    ]
+  },
+  {
+    "id": 3,
+    "name": "saudi aramco",
+    "logo": "https://res-console.cloudinary.com/dwb9ftwd3/thumbnails/v1/image/upload/v1761383088/QXJhbWNvLnN2Z191Z2JwaXU=/drilldown",
+    "HQ": "saudi arabia",
+    "sector": "Energy",
+    "market cap": "2,150$B",
+    "description": "Oil & gas producer",
+    "facts": [
+      "one",
+      "two",
+      "three",
+      "four",
+      "five",
+      "six",
+      "seven",
+      "eight",
+      "nine",
+      "ten"
+    ]
+  },
+  {
+    "id": 4,
+    "name": "nvidia",
+    "logo": "https://res-console.cloudinary.com/dwb9ftwd3/thumbnails/v1/image/upload/v1761383106/Y3VkYS1zdmdyZXBvLWNvbV96ZXFyZHE=/drilldown",
+    "HQ": "USA",
+    "sector": "technology",
+    "market cap": "2,050$B",
+    "description": "GPUs, AI chips",
+    "facts": [
+      "one",
+      "two",
+      "three",
+      "four",
+      "five",
+      "six",
+      "seven",
+      "eight",
+      "nine",
+      "ten"
+    ]
+  },
+  {
+    "id": 5,
+    "name": "alphabet (google)",
+    "logo": "https://res-console.cloudinary.com/dwb9ftwd3/thumbnails/v1/image/upload/v1761383206/YWxwaGFiZXRfYmliZWV4/drilldown",
+    "HQ": "USA",
+    "sector": "technology",
+    "market cap": "1,950$B",
+    "description": "search, youTube, cloud",
+    "facts": [
+      "one",
+      "two",
+      "three",
+      "four",
+      "five",
+      "six",
+      "seven",
+      "eight",
+      "nine",
+      "ten"
+    ]
+  },
+  {
+    "id": 6,
+    "name": "amazon",
+    "logo": "https://res-console.cloudinary.com/dwb9ftwd3/thumbnails/v1/image/upload/v1761383208/YW1hem9uLWNvbG9yLXN2Z3JlcG8tY29tX200a3N2bw==/drilldown",
+    "HQ": "USA",
+    "sector": "consumer discretion",
+    "market cap": "1,750$B",
+    "description": "e-commerce, AWS",
+    "facts": [
+      "one",
+      "two",
+      "three",
+      "four",
+      "five",
+      "six",
+      "seven",
+      "eight",
+      "nine",
+      "ten"
+    ]
+  },
+  {
+    "id": 7,
+    "name": "berkshire hathaway",
+    "logo": "https://res-console.cloudinary.com/dwb9ftwd3/thumbnails/v1/image/upload/v1761383208/YW1hem9uLWNvbG9yLXN2Z3JlcG8tY29tX200a3N2bw==/drilldown",
+    "HQ": "USA",
+    "sector": "financials",
+    "market cap": "1,050$B",
+    "description": "conglomerate investments",
+    "facts": [
+      "one",
+      "two",
+      "three",
+      "four",
+      "five",
+      "six",
+      "seven",
+      "eight",
+      "nine",
+      "ten"
+    ]
+  },
+  {
+    "id": 8,
+    "name": "meta platforms (facebook)",
+    "logo": "https://res-console.cloudinary.com/dwb9ftwd3/thumbnails/v1/image/upload/v1761391006/bWV0YS1sb2dvLWZhY2Vib29rLXN2Z3JlcG8tY29tX3h5OG82aw==/drilldown",
+    "HQ": "USA",
+    "sector": "technology",
+    "market cap": "950$B",
+    "description": "social media, VR/AR",
+    "facts": [
+      "one",
+      "two",
+      "three",
+      "four",
+      "five",
+      "six",
+      "seven",
+      "eight",
+      "nine",
+      "ten"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "TSMC",
+    "logo": "image",
+    "HQ": "Taiwan",
+    "sector": "technology",
+    "market cap": "870$B",
+    "description": "semiconductor foundry",
+    "facts": [
+      "one",
+      "two",
+      "three",
+      "four",
+      "five",
+      "six",
+      "seven",
+      "eight",
+      "nine",
+      "ten"
+    ]
+  },
+  {
+    "id": 9,
+    "name": "TSMC",
+    "logo": "https://res-console.cloudinary.com/dwb9ftwd3/thumbnails/v1/image/upload/v1761383202/dHNtYy0xX2J1YmR1dw==/drilldown",
+    "HQ": "Taiwan",
+    "sector": "technology",
+    "market cap": "870$B",
+    "description": "semiconductor foundry",
+    "facts": [
+      "one",
+      "two",
+      "three",
+      "four",
+      "five",
+      "six",
+      "seven",
+      "eight",
+      "nine",
+      "ten"
+    ]
+  },
+  {
+    "id": 10,
+    "name": "tesla",
+    "logo": "https://res-console.cloudinary.com/dwb9ftwd3/thumbnails/v1/image/upload/v1761383202/VGVzbGFfX0luYy4tTG9nby53aW5lX2FnYnppZQ==/drilldown",
+    "HQ": "USA",
+    "sector": "consumer discretion",
+    "market cap": "820$B",
+    "description": "electric vehicles",
+    "facts": [
+      "one",
+      "two",
+      "three",
+      "four",
+      "five",
+      "six",
+      "seven",
+      "eight",
+      "nine",
+      "ten"
+    ]
+  },
+  {
+    "id": 11,
+    "name": "eli lilly",
+    "logo": "https://res-console.cloudinary.com/dwb9ftwd3/thumbnails/v1/image/upload/v1761383201/RWxpX0xpbGx5X2FuZF9Db21wYW55LUxvZ28ud2luZV9hM2pzbWc=/drilldown",
+    "HQ": "USA",
+    "sector": "healthcare",
+    "market cap": "790$B",
+    "description": "pharma (diabetes, obesity)",
+    "facts": [
+      "one",
+      "two",
+      "three",
+      "four",
+      "five",
+      "six",
+      "seven",
+      "eight",
+      "nine",
+      "ten"
+    ]
+  },
+  {
+    "id": 12,
+    "name": "visa",
+    "logo": "https://res-console.cloudinary.com/dwb9ftwd3/thumbnails/v1/image/upload/v1761383201/dmlzYS1zdmdyZXBvLWNvbV9ycGU0bW8=/drilldown",
+    "HQ": "USA",
+    "sector": "financials",
+    "market cap": "760$B",
+    "description": "digital payments",
+    "facts": [
+      "one",
+      "two",
+      "three",
+      "four",
+      "five",
+      "six",
+      "seven",
+      "eight",
+      "nine",
+      "ten"
+    ]
+  },
+  {
+    "id": 13,
+    "name": "unitedHealth",
+    "logo": "https://res-console.cloudinary.com/dwb9ftwd3/thumbnails/v1/image/upload/v1761383269/dW5pdGVkaGVhbHRoY2FyZS0yX3N3bGxzcw==/drilldown",
+    "HQ": "USA",
+    "sector": "healthcare",
+    "market cap": "740$B",
+    "description": "health insurance",
+    "facts": [
+      "one",
+      "two",
+      "three",
+      "four",
+      "five",
+      "six",
+      "seven",
+      "eight",
+      "nine",
+      "ten"
+    ]
+  },
+  {
+    "id": 14,
+    "name": "johnson & johnson",
+    "logo": "https://res-console.cloudinary.com/dwb9ftwd3/thumbnails/v1/image/upload/v1761383267/am9obnNvbi1qb2huc29uLTRfZ3hramFl/drilldown",
+    "HQ": "USA",
+    "sector": "healthcare",
+    "market cap": "710$B",
+    "description": "pharma, med devices",
+    "facts": [
+      "one",
+      "two",
+      "three",
+      "four",
+      "five",
+      "six",
+      "seven",
+      "eight",
+      "nine",
+      "ten"
+    ]
+  },
+  {
+    "id": 15,
+    "name": "exxonMobil",
+    "logo": "https://res-console.cloudinary.com/dwb9ftwd3/thumbnails/v1/image/upload/v1761383265/ZXh4b25tb2JpbC1wcm9kdWN0aW9uX2Vxb3J1MQ==/drilldown",
+    "HQ": "USA",
+    "sector": "Energy",
+    "market cap": "700$B",
+    "description": "oil & gas",
+    "facts": [
+      "one",
+      "two",
+      "three",
+      "four",
+      "five",
+      "six",
+      "seven",
+      "eight",
+      "nine",
+      "ten"
+    ]
+  }
+]

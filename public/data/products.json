@@ -1,0 +1,6 @@
+[
+  { "id": 1, "name": "Thermoware Bottle", "price": 299, "category": "bottle" },
+  { "id": 2, "name": "Casserole Set", "price": 499, "category": "casserole" },
+  { "id": 3, "name": "Lunch Box", "price": 399, "category": "tiffin" },
+  { "id": 4, "name": "Steel Bottle", "price": 599, "category": "bottle" }
+]
